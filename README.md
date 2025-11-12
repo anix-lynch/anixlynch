@@ -15,11 +15,9 @@
 
 ---
 
-💡 **Tech Stack:** Python, SQL, LangChain, Claude, Airflow, dbt, n8n, Warp, Cursor
-
-📫 **Connect:** [gozeroshot.dev](https://gozeroshot.dev) | [LinkedIn](https://linkedin.com/in/anixlynch)
+💡 **Tech Stack:** Python, SQL, LangChain, Claude, Airflow, dbt, n8n, Warp, Cursor  
+📫 **Connect:** [gozeroshot.dev](https://gozeroshot.dev) | [LinkedIn](https://linkedin.com/in/anixlynch)  
 
 ---
 
 *Quality code > Vanity metrics* ✨
-
